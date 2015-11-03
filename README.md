@@ -7,3 +7,7 @@ Site com o material utilizado na Docência Orientada para a disciplina de *Parad
 
 ## Aulas práticas
  - [Aula prática de 5/11](pratica-05-11): Aulas 00 e 01
+
+## Parte 1
+1. Baixe o arquivo [ArrayListDemo.zip](ArrayListDemo.zip), que contém o projeto Netbeans que será utilizado nesse exercício. Descompacte o projeto e abra-o no Netbeans.
+
