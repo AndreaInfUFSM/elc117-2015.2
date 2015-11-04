@@ -13,12 +13,12 @@
 
 4. Analise o programa ArrayListPercurso.java. O que faz cada linha do programa? Qual será sua saída?
 
-5. O programa DisciplinaApp.java ilustra o uso da classe Disciplina, que é definida em Disciplina.java. Qual será a saída deste programa?
+5. O programa VeiculoApp.java ilustra o uso da classe Veiculo, que é definida em Veiculo.java. Qual será a saída deste programa?
 
-6. Altere o programa DisciplinaApp.java para fazer o seguinte: 
-   - criar uma ArrayList de objetos da classe Disciplina;
-   - criar 4 disciplinas e inseri-las na ArrayList;
+6. Altere o programa Veiculo.java para fazer o seguinte:
+   - criar uma ArrayList de objetos da classe Veiculo;
+   - criar 4 veículos e inseri-los na ArrayList;
    - mostrar todo o conteúdo da ArrayList, usando um laço for com índice i;
-   - obter e mostrar a segunda disciplina da ArrayList;
-   - remover a última disciplina da ArrayList;
+   - obter e mostrar o segunda veículo da ArrayList;
+   - remover o último veículo da ArrayList;
    - mostrar novamente todo o conteúdo da ArrayList, usando um laço for-each.
