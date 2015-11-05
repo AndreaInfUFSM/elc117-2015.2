@@ -34,5 +34,5 @@
 
 3. Entre na pasta `src/arraylistgui/gui` e abra o arquivo `TableModelVeiculo.java`. Este arquivo contém uma classe que encapsula uma ArrayList de Veículos e implementa métodos para representar seus dados na forma de uma tabela.
 
-4. Estude o código da classe TableModelDisciplina e procure completar as partes marcadas com "COMPLETE-ME". Se tudo der certo, o programa deverá compilar e executar sem erros, e executar as operações corretamente.
+4. Estude o código da classe `TableModelVeiculo` e procure completar as partes marcadas com "COMPLETE-ME". Se tudo der certo, o programa deverá compilar e executar sem erros, e executar as operações corretamente.
 
