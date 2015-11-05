@@ -6,7 +6,7 @@
 
 ## Material extra
  - Você pode baixar [aqui](slides-java-rev-00-01-2015b.pdf) o material de revisão das aulas 00 e 01. Esses slides contém alguns exemplos práticos sobre os conceitos abordados nas aulas teóricas;
- - Abusos no uso de herança [\[1\]](http://www.gotw.ca/publications/mill06.htm) [2](http://www.gotw.ca/publications/mill07.htm): artigos em inglês que tratam do "overengineering" de software. Os exemplos são para C++ mas as dicas servem para qualquer outra linguagem OO (Java, Python, Go, C#, Obj C, ...).
+ - Abusos no uso de herança [\[1\]](http://www.gotw.ca/publications/mill06.htm) [\[2\]](http://www.gotw.ca/publications/mill07.htm): artigos em inglês que tratam do "overengineering" de software. Os exemplos são para C++ mas as dicas servem para qualquer outra linguagem OO (Java, Python, Go, C#, Obj C, ...).
 
 ## Parte 1
 1. Baixe o arquivo [ArrayListDemo.zip](ArrayListDemo.zip), que contém o projeto Netbeans que será utilizado nesse exercício. Descompacte o projeto e abra-o no Netbeans.
