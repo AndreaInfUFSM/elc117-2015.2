@@ -22,3 +22,17 @@
    - obter e mostrar o segunda veículo da `ArrayList`;
    - remover o último veículo da `ArrayList`;
    - mostrar novamente todo o conteúdo da `ArrayList`, usando um laço for-each.
+
+
+## Parte 2
+1. Baixe o programa [ArrayListGUI.jar](ArrayListGUI.jar). Esse é um programa com interface gráfica que faz operações semelhantes às do exercício anterior. Execute e teste este programa, pois no restante dos exercícios você completará um código para reproduzir o comportamento deste executável. Para executar o programa, clique sobre ele ou execute:
+```Shell
+   java -jar ./ArrayListGUI.jar
+```
+
+2. Baixe o arquivo [ArrayListGUI.zip](ArrayListGUI.zip), que contém o projeto NetBeans da aplicação ArrayListGUI. Este projeto está incompleto.
+
+3. Entre na pasta `src/arraylistgui/gui` e abra o arquivo `TableModelVeiculo.java`. Este arquivo contém uma classe que encapsula uma ArrayList de Veículos e implementa métodos para representar seus dados na forma de uma tabela.
+
+4. Estude o código da classe TableModelDisciplina e procure completar as partes marcadas com "COMPLETE-ME". Se tudo der certo, o programa deverá compilar e executar sem erros, e executar as operações corretamente.
+
