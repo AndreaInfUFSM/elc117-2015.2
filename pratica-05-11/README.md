@@ -19,7 +19,7 @@
 
 5. O programa `VeiculoApp.java` ilustra o uso da classe Veiculo, que é definida em `Veiculo.java`. Qual será a saída deste programa?
 
-6. Altere o programa `Veiculo.java` para fazer o seguinte:
+6. Altere o programa `VeiculoApp.java` para fazer o seguinte:
    - criar uma `ArrayList` de objetos da classe `Veiculo`;
    - criar 4 veículos e inseri-los na `ArrayList`;
    - mostrar todo o conteúdo da `ArrayList`, usando um laço for com índice `i`;
