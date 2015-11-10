@@ -4,6 +4,7 @@ Site com o material utilizado na Docência Orientada para a disciplina de *Parad
 ## Material das aulas
  - [00 Herança e Polimorfismo (27/10 e 3/11)](00_slides-java-heranca-polimorfismo-2015b.pdf)
  - [01 Classes abstratas, interfaces e collections (3/11)](01_slides-java-abstract-2015b.pdf)
+ - [02 Interfaces gráficas em Java (10/11)](02_slides-java-gui-2015b.pdf)
 
 ## Aulas práticas
  - [Aula prática de 5/11](pratica-05-11): Aulas 00 e 01
