@@ -9,6 +9,7 @@ Site com o material utilizado na Docência Orientada para a disciplina de *Parad
 
 ## Aulas práticas
  - [Aula prática de 5/11](pratica-05-11): Aulas 00 e 01
+ - [Aula prática de 12/11](pratica-12-11): Aulas 01 e 02
 
 
 ## Galeria da Fama & Vergonha
