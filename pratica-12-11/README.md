@@ -2,7 +2,7 @@
 
 ## Tópicos abordados
  - Classes abstratas, interfaces, tipos genéricos e *collections* (aula [01](../01_slides-java-abstract-2015b.pdf));
- - GUI com Java, [AWT](http://docs.oracle.com/javase/8/docs/api/java/awt/package-summary.html), [SWING](http://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html), MVC.
+ - GUI com Java, [AWT](http://docs.oracle.com/javase/8/docs/api/java/awt/package-summary.html), [SWING](http://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html), MVC. (aula [02](../02_slides-java-gui-2015b.pdf)).
 
 ## Material extra
  - [Tutoriais da Oracle](http://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html) para construção de interfaces gráficas em Java com SWING;
