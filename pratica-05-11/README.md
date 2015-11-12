@@ -9,7 +9,7 @@
  - Abusos no uso de herança [\[1\]](http://www.gotw.ca/publications/mill06.htm) [\[2\]](http://www.gotw.ca/publications/mill07.htm): artigos em inglês que tratam do "overengineering" de software. Os exemplos são para C++ mas as dicas servem para qualquer outra linguagem OO (Java, Python, Go, C#, Obj C, ...).
 
 ## Parte 1
-1. Baixe o arquivo [ArrayListDemo.zip](ArrayListDemo.zip), que contém o projeto Netbeans que será utilizado nesse exercício. Descompacte o projeto e abra-o no Netbeans.
+1. Baixe o arquivo [ArrayListDemo.zip](ArrayListDemo.zip), que contém o projeto NetBeans que será utilizado nesse exercício. Descompacte o projeto e abra-o no NetBeans.
 
 2. Entre na pasta src do projeto e analise o programa `ArrayListOps.java`. Esse programa usa a classe `ArrayList`. O que faz cada linha do programa? Qual será sua saída?
 
