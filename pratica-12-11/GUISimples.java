@@ -6,7 +6,7 @@ import java.awt.event.*;
  * Exemplo de construção de interface auxílio de IDE para a construção da interface gráfica.
  * @author alberto.
  */
-public class SemIDE extends JFrame {
+public class GUISimples extends JFrame {
    
    private int contagemCliques;
    private JButton btnIncrementa;
@@ -15,7 +15,7 @@ public class SemIDE extends JFrame {
     * Método construtor.
     * Cria uma nova janela.
     */
-   public SemIDE() {
+   public GUISimples() {
       super("Exemplo construído sem IDE");
       contagemCliques = 0;
       criaComponentes();
@@ -68,7 +68,7 @@ public class SemIDE extends JFrame {
       SwingUtilities.invokeLater(new Runnable() {
          @Override
          public void run() {
-            SemIDE tela = new SemIDE();
+            GUISimples tela = new GUISimples();
             tela.setVisible(true);
          }
       });

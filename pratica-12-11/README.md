@@ -8,7 +8,15 @@
  - [Tutoriais da Oracle](http://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html) para construção de interfaces gráficas em Java com SWING;
 
 ## Parte 1
- 1. O programa [SemIDE.java](SemIDE.java) ilustra o uso do pacote [javax.swing](http://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html) para criação de uma interface gráfica bastante simples. Compile e execute este programa, busque entender seu funcionamento.
+ 1. O programa [GUISimples.java](GUISimples.java) ilustra o uso do pacote [javax.swing](http://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html) para criação de uma interface gráfica bastante simples. Compile e execute este programa, busque entender seu funcionamento.
+    - Compilando e executando via terminal
+      ```Shell
+      $ javac GUISimples.java
+      $ java -cp . GUISimples
+      ```
+    - Com o NetBens:
+       1. Crie um novo projeto Java vazio;
+       2. Copie o arquivo [GUISimples.java](GUISimples.java) para dentro da pasta `src` do projeto.
  2. Modifique o programa para que a contagem do contador seja apresentada juntamente ao título do `JFrame`.
  3. Modifique o programa, adicionando um segundo botão na janela. 
  4. Observe o comportamento do programa. Para evitar a sobreposição entre componentes atualize o método `criaComponentes` de `SemIDE`, adicionando um `GridLayout` como gerenciador de layout.
