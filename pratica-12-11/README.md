@@ -25,3 +25,11 @@
  8. Altere um dos botões para mostrar um ícone/imagem (a sua escolha) ao invés de seu título.
  9. Altere os eventos dos botões para que ao clicá-lo, sejam registrados na JTextBox, a hora (pode ser de `System.currentTimeMillis()`) e o botão apertado.
 
+
+## Parte 3 (extra): Exercício com interfaces
+ 1. Baixe o arquivo [ExercicioComparator.zip](ExercicioComparator.zip) que contém o projeto NetBeans usado neste exercício.
+ 2. Estude a classe `exercicio_comparator.comparators.ComparatorPlaca`, responsável por comparar dois objetos `Veiculo`. Veja seu método `compare()` e o comentário presente no código.
+ 3. Implemente duas classes que estendem `Comparator`:
+    - Uma delas deve comparar dois veículos pela marca;
+    - A outra deve comparar pelo preço.
+ 4. Complete o programa `exercicio_comparator.ExercicioComparator`. Veja as marcações `TODO: COMPLETE-ME` presentes no código.
