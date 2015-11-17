@@ -6,6 +6,7 @@ Site com o material utilizado na Docência Orientada para a disciplina de *Parad
  - [01 Classes abstratas, interfaces e collections (3/11)](01_slides-java-abstract-2015b.pdf)
  - [02 Interfaces gráficas em Java (10/11)](02_slides-java-gui-2015b.pdf)
    - [Visão geral do funcionamento do MVC](02_extra_00-gui-2015.pdf)
+ - [03 Programação Concorrente em Java (17/11)](03_slides-java-threads-2015b.pdf)
 
 ## Aulas práticas
  - [Aula prática de 5/11](pratica-05-11): Aulas 00 e 01
