@@ -16,3 +16,6 @@ Site com o material utilizado na Docência Orientada para a disciplina de *Parad
 ## Galeria da Fama & Vergonha
  - [Feedback do T9 - Parte 2](halls/t9-parte2.pdf)
 
+## Exemplo de funcionamento do T10
+ - Veja [aqui](t10-exemplo)
+
