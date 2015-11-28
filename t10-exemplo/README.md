@@ -2,5 +2,6 @@
 A descrição original do trabalho encontra-se no [site da disciplina](http://www-usr.inf.ufsm.br/~andrea/elc117-2015b/trabs/t10-oo.html).
 
 ## Versão de referência.
-Baixe [aqui](t10-exemplo.jar) uma versão de demostração do trabalho. Você pode importar o arquivo [exemplo.csv](exemplo.csv) no menu do programa.
+Baixe [aqui](t10-exemplo.jar) uma versão de demostração do trabalho. Você pode importar o arquivo [exemplo.csv](exemplo.csv) no menu do programa pode converter um xls do site da [ANP](http://www.anp.gov.br/) com o Libreoffice Calc, remover 
+as informações que constam antes do cabeçalho da tabela.
 
